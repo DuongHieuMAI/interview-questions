@@ -15,7 +15,7 @@ TODO
 
 |  List | Tuple  |
 |---|---|
-|  Lists are mutable i.e they can be edited. |  Lists are mutable i.e they can be edited. |
+|  Lists are mutable i.e they can be edited. |  Tuple are immutable i.e they can n be edited. |
 Lists are slower than tuples. | Tuples are faster than list
 Syntax: list_1 = [10, ‘Chelsea’, 20] | Syntax: tup_1 = (10, ‘Chelsea’ , 20)
 
