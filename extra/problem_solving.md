@@ -29,7 +29,7 @@ World always changes, the best for today might not be good for later.
 
 2. Situation that you solved a problem/ Challenges you faced
 
-- Production server was shutdown incidentally.
+- Production server was shutdown incidentally
 - Infinite loop of lambda function execution
 - Some one expose AWS access key
 - Payload is too large when working with AWS IoT ThingShadow
@@ -77,10 +77,13 @@ Deployment was performed manually, I built a CICD flow to make deployment automa
 
 13. Why our ert ?
 
-- International envrionment
-- Flexible working time
-- Opportunity to learn to grow, challenge my self
-- Take my career to next step
-- Improve my english, open the door to the world, bring me closer to the rest of the world
-- Know how a big company operate instead of working as outsourcing
-- Feeling interesting in healthcare projects when applications can serve people and make a better world
+- Take my career to next step, working in a big company with new technologies that I can learn and grow to become a professional developer
+- International envrionment, meet people come from other contry, improve my english, bring me closer to the rest of the world
+- Being interested in healthcare projects when applications can serve people and make a better world, do things meaningful
+
+14. Why you
+
+- Have AWS experiences 
+- Beside an software developer you also find me as a document writter, infra assistant
+- Know how to cope with new technology or languages
+- 
